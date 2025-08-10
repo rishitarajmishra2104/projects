@@ -32,11 +32,14 @@ This repo is part of my learning journey as I dive into programming languages, D
 ---
 
 ## 🧠 Beginner Project Ideas
-- 📊 Student marks calculator  
-- 📅 To-do list manager  
+- 📊 Student marking grade 
+- 🏧 mini atm
 - 🧮 Simple calculator  
 - 🎮 Guess the number game  
-- 🌦️ Weather app (using API)  
+- ❤️ tic tac toe 
+- ⏰ digital clock
+- ☺️ facialfeatureclassifier
+
 
 ---
 
