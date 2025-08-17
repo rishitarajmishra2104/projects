@@ -7,11 +7,8 @@ This repo is part of my learning journey as I dive into programming languages, D
 
 ---
 
-## 📚 What You’ll Find Here
-- 💻 **Code snippets** from my daily learning  
+## 📚 What You’ll Find Here  
 - 📂 **Mini projects** for practice  
-- 📓 Notes & explanations for beginners  
-- 🛠️ Problem-solving exercises  
 
 ---
 
