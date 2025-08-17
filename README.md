@@ -1,7 +1,7 @@
 # 🚀 My First Year Programming Journey
 
 Welcome to my repository! 🎉  
-I’m **Rishita**, a first-year Computer Science & Engineering (CSE) student, passionate about coding, building projects, and exploring new technologies.  
+I’m **Rishita**, a first-year Computer Science & business system (CSBS) student, passionate about coding, building projects, and exploring new technologies.  
 
 This repo is part of my learning journey as I dive into programming languages, Data Structures, and fun beginner projects.
 
