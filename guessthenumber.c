@@ -6,8 +6,7 @@ int main() {
     int secretNumber, guess, attempts = 0;
     const int MIN = 1, MAX = 100;
     
-    // Initialize random number generator
-    srand(time(0));
+     generator srand(time(0));
     secretNumber = (rand() % MAX) + MIN;// Generate random number between MIN and MAX
     
     printf("=== Guess the Number Game ===\n");
