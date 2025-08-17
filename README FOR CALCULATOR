@@ -1,0 +1,40 @@
+🧮 Calculator
+
+📌 Overview
+
+This is a simple Calculator Application that performs basic arithmetic operations such as:
+
+Addition (+)
+
+Subtraction (−)
+
+Multiplication (×)
+
+Division (÷)
+
+
+You can run this calculator simply in vs studio or any c compiler website.
+
+
+
+💻 Usage Example
+
+Enter first number: 10  
+Enter operation (+, -, *, /): *  
+Enter second number: 5  
+Result = 50
+
+
+
+📂 Project Structure
+
+calculator/
+│── calculator.c
+
+
+💻 Tecnology used
+
+C PROGRAMMING LANGUAGE
+
+👩‍💻 Author
+- RISHITA RAJ MISHRA 
