@@ -1,0 +1,51 @@
+FacialFeatureClassifier 👤 (C - Fun Version)
+
+This project is a simple C program that classifies basic facial features just for fun 🎉.
+Instead of AI/ML, it uses numerical measurements of the face (width, height, eyes distance, nose length, lip thickness, forehead height, etc.) entered by the user.
+
+
+---
+
+🚀 Features
+
+Console-based program in C
+
+User enters face measurements
+
+Program applies rules to classify features:
+
+Face Shape → (Oval, Round, Square, Heart, Diamond)
+
+Eyes → (Close-set, Wide-set, Normal)
+
+Nose → (Short, Long, Wide, Narrow)
+
+Lips → (Thin, Full, Wide)
+
+Forehead → (High, Low)
+
+Eyebrows → (Straight, Curved, Arched)
+
+
+Fun, lightweight, no external libraries needed 🎯
+
+📊 Example Run
+
+Enter face width: 14
+Enter face height: 20
+Enter eye distance: 6
+Enter nose length: 5
+Enter lip thickness: 2
+Enter forehead height: 7
+
+Results:
+- Face Shape: Oval
+- Eyes: Wide-set
+- Nose: Short
+- Lips: Thin
+- Forehead: High
+- Eyebrows: Arched
+
+👑 Author/Created with fun and ❤️-
+
+RISHITA RAJ MISHRA
